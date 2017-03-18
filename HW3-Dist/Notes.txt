@@ -1,0 +1,18 @@
+Notes
+
+Bod Rate
+ 0.10416 milliseconds
+
+ 0.10416×10^−3×50×10^6 = 5208
+
+
+  transmitted over pin PA1 (Port A, Pin 1)
+
+  oversample
+  received over    pin PA0 (Port A, Pin 0)
+
+  bod rate
+  Timer0A will be configured as a 16-bit, count down, periodic timer
+
+  oversample counter
+  Timer0B will be configured as a 16-bit, count down, periodic timer
